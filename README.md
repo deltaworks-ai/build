@@ -1,4 +1,15 @@
-# build
-Architecture made physical | Reference configurations, system topology, memory hierarchy and refusal semantics. 
+# deltaworks.build
 
-A build is not a pile of parts. A build is an enforced behavior model.
+Commitment to what holds.
+
+A build is not a configuration.  
+It is a system that has survived validation.
+
+This layer:
+
+• freezes architectures  
+• defines reference systems  
+• enforces behavior  
+
+What exists here is defensible.  
+Everything else is refused.
