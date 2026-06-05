@@ -1,7 +1,7 @@
 # deltaworks.build
 
-**commitment, not speculation**
-A build is not a configuration.
+**commitment, not speculation**  
+A build is not a configuration.  
 It is a system that has survived validation.
 
 Frontier AI systems, engineered from the ground up.  
